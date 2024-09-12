@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+
+    
+  }
+
+  ol  {
+
+    background: hsl(202, 100%, 80%);
+    padding: 20px;
+    margin-right: 100px;
+    margin-left: 100px;
+  }
+  
+  ul {
+    background: #bbe9a6;
+    padding: 20px;
+    margin-right: 100px;
+    margin-left: 100px;
+  } 
+  
+  ol li {
+    background: #ffe5e5;
+    color: darkred;
+    padding: 5px;
+    margin-left: 35px;
+  }
+  
+  ul li {
+    background: #ffe5e5;
+    color: darkred;
+    padding: 5px;
+    margin-left: 35px;
+  }

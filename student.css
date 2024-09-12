@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    
+  }
+#student {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  #student td, #students th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  #student tr:nth-child(even){background-color: #cedef3;}
+  
+  #student tr:hover {background-color: #efd4f5;}
+  
+  #student th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: #96f8d4;
+    color: white;
+  }
